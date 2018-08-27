@@ -1,0 +1,25 @@
+/*
+ * SMACSS SCSS
+ * Inspired by SMACSS http://smacss.com
+ * Author: Justin Bond
+ *
+ * https://github.com/geekster909
+ *
+ */
+/* Layout */
+/* ==========================================================================
+   Header
+   ========================================================================== */
+h3,
+p {
+  font-family: "arial";
+  line-height: 1.4em; }
+
+body {
+  background-color: #fff; }
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+
+/*# sourceMappingURL=maps/style.css.map */
